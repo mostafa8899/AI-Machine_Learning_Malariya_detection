@@ -18,3 +18,4 @@ Photo by [Егор Камелев on Unsplash](https://unsplash.com/@ekamelev)
 The goal is to save lives by developing models that can detect and classify cells as infected or uninfected with malaria. Check out the dataset on Kaggle: [Cell Images for Detecting Malaria](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria). Our objective is to classify patients as either affected or not.
 
 Let's collaborate to build tools that contribute to the early detection and diagnosis of malaria. 🌐💉🔬 #MalariaDetection #MedicalImaging #DataScience #Kaggle
+Team:@MoaazMahmoud22
